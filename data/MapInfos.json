@@ -1,0 +1,363 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "Ancient Marshland",
+        "order": 13,
+        "parentId": 0,
+        "scrollX": 1117,
+        "scrollY": 650
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "Forgotten Place",
+        "order": 15,
+        "parentId": 0,
+        "scrollX": 914.6666666666666,
+        "scrollY": 1062.6666666666667
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "Residence (Base)",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1441,
+        "scrollY": 1278.5
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "Path to the Ruins",
+        "order": 8,
+        "parentId": 13,
+        "scrollX": 1003.6,
+        "scrollY": 885.2
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "Eastern Forest",
+        "order": 5,
+        "parentId": 13,
+        "scrollX": 914.6666666666666,
+        "scrollY": 2033.3333333333333
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "Iron Ore Cave",
+        "order": 14,
+        "parentId": 1,
+        "scrollX": 925.3333333333334,
+        "scrollY": 846.6666666666666
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "Abandoned Mine",
+        "order": 23,
+        "parentId": 0,
+        "scrollX": 1464,
+        "scrollY": 846.6666666666666
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "Kraken's Nest",
+        "order": 27,
+        "parentId": 9,
+        "scrollX": 1457,
+        "scrollY": 1242.5
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "Kraken's Shore",
+        "order": 26,
+        "parentId": 0,
+        "scrollX": 1713,
+        "scrollY": 1258.5
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "Nipple Nebrislime Sanctuary",
+        "order": 6,
+        "parentId": 5,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "Lava Cave",
+        "order": 28,
+        "parentId": 0,
+        "scrollX": 872,
+        "scrollY": 962
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "Lava Cave 3",
+        "order": 30,
+        "parentId": 11,
+        "scrollX": 1854,
+        "scrollY": 1363.3333333333333
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "Forest Center",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "Tower 1F",
+        "order": 16,
+        "parentId": 2,
+        "scrollX": 1165,
+        "scrollY": 650
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "Lava Cave 2",
+        "order": 29,
+        "parentId": 11,
+        "scrollX": 966,
+        "scrollY": 635
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "Tower, Final Chamber",
+        "order": 22,
+        "parentId": 22,
+        "scrollX": 1165,
+        "scrollY": 2253
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "Tower 2F",
+        "order": 17,
+        "parentId": 14,
+        "scrollX": 1165,
+        "scrollY": 1135
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "Starting Shore",
+        "order": 2,
+        "parentId": 3,
+        "scrollX": 1006.6666666666666,
+        "scrollY": 1062.6666666666667
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "Tower 3F",
+        "order": 18,
+        "parentId": 17,
+        "scrollX": 1165,
+        "scrollY": 855
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "Tower 4F",
+        "order": 19,
+        "parentId": 19,
+        "scrollX": 1165,
+        "scrollY": 650
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "Tower 5F",
+        "order": 20,
+        "parentId": 20,
+        "scrollX": 1053.3333333333333,
+        "scrollY": 860
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "Tower, Four Heavens Chamber",
+        "order": 21,
+        "parentId": 21,
+        "scrollX": 1556,
+        "scrollY": 1693
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "Western Forest",
+        "order": 7,
+        "parentId": 13,
+        "scrollX": 925.3333333333334,
+        "scrollY": 857.3333333333334
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "Oasis",
+        "order": 24,
+        "parentId": 7,
+        "scrollX": 925.3333333333334,
+        "scrollY": 857.3333333333334
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "Ero Viewing Room",
+        "order": 3,
+        "parentId": 3,
+        "scrollX": 951,
+        "scrollY": 685.5
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "Inescapable Room",
+        "order": 25,
+        "parentId": 7,
+        "scrollX": 811,
+        "scrollY": 563
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "Small Town",
+        "order": 33,
+        "parentId": 0,
+        "scrollX": 1506,
+        "scrollY": 1063.3333333333333
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "Church",
+        "order": 37,
+        "parentId": 27,
+        "scrollX": 731.5,
+        "scrollY": 685.5
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "Item Shop",
+        "order": 34,
+        "parentId": 27,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "Inn 1F",
+        "order": 35,
+        "parentId": 27,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "Tavern",
+        "order": 36,
+        "parentId": 27,
+        "scrollX": 1254,
+        "scrollY": 914
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "Church Event Exclusive",
+        "order": 38,
+        "parentId": 27,
+        "scrollX": 1254,
+        "scrollY": 914
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "House End Event",
+        "order": 32,
+        "parentId": 37,
+        "scrollX": 1175,
+        "scrollY": 854.5
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "House After Pregnancy",
+        "order": 9,
+        "parentId": 4,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "House",
+        "order": 10,
+        "parentId": 34,
+        "scrollX": 1017.3333333333334,
+        "scrollY": 857.3333333333334
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "House Birth Event",
+        "order": 11,
+        "parentId": 35,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "Return End Event 1",
+        "order": 31,
+        "parentId": 0,
+        "scrollX": 1167,
+        "scrollY": 1306
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "Before Leaving Home",
+        "order": 12,
+        "parentId": 4,
+        "scrollX": 1516.6666666666667,
+        "scrollY": 914
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "Abandoned House",
+        "order": 39,
+        "parentId": 27,
+        "scrollX": 1254,
+        "scrollY": 914
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "Hentai Event",
+        "order": 40,
+        "parentId": 0,
+        "scrollX": 1243,
+        "scrollY": 1138.5
+    }
+]

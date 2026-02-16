@@ -1,0 +1,49 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "shounen_batoru",
+        "characterIndex": 0,
+        "characterName": "syounen_hokou",
+        "classId": 5,
+        "equips": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "syounen",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 50,
+        "name": "Satoru",
+        "nickname": "",
+        "note": "",
+        "profile": "Risa's only son who loves games. Your typical mom-con student."
+    },
+    {
+        "id": 2,
+        "battlerName": "hiroin_sentou1",
+        "characterIndex": 0,
+        "characterName": "onnanoko_hokou",
+        "classId": 6,
+        "equips": [
+            0,
+            0,
+            0,
+            11,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "hiroin_face1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 50,
+        "name": "Risa",
+        "nickname": "",
+        "note": "\n",
+        "profile": "The protagonist's biological mother. Her hobby is running, and she's a black belt in karate."
+    }
+]
